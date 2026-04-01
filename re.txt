@@ -3,5 +3,4 @@ ipykernel
  scikit-learn
  seaborn
  Imbalanced-learn
- streamlit
- #pip install -r re.txt
+ 
